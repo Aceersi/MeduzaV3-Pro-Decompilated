@@ -4,7 +4,7 @@
 
 # MeduzaPro
 
-**Version 24.1.2 · Stable Release**
+**Version 24.1.2 · Decompiled Version✨**
 
 <p>
   <img src="https://raw.githubusercontent.com/KianSantang777/MeduzaV3/refs/heads/main/Main.png" width="820">
@@ -87,17 +87,10 @@ sudo ./go.sh
 
 ---
 
-## Official
-
-**Telegram Channel 1**
-https://t.me/+ivrmD-sfFGkwMmU1
-
-**Telegram Channel 2**
-https://t.me/meduzaiii
 
 ### Developer
 
-[@xqndrs66](https://t.me/xqndrs66) · [@xqndrs](https://t.me/xqndrs)
+Decompiled By Aceersi
 
 ---
 
