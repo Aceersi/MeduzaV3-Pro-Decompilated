@@ -24,13 +24,8 @@
 
 ## About
 
-MeduzaPro is a cross-platform tool designed to simulate payment flows across **Stripe** and **WooCommerce** checkout systems.
-
-It focuses on browser-like session handling, request processing, and response classification:
-
-`LIVE` · `DEAD` · `RETRY`
-
-> For authorized testing and development environments only.
+I didnt take the decompiled version from **https://github.com/PrattaySarkar/MeduzaV3crackedagain**
+I decompiled myself. so please do not be confused, oh and this version is not a crack so yea use the PrattySarkar crack.
 
 ## Release
 
