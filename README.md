@@ -85,6 +85,8 @@ sudo ./go.sh
 
 Decompiled By Aceersi
 
+Thanks to Gemini for explaining the obfuscation used !
+
 ---
 
 <div align="center">
