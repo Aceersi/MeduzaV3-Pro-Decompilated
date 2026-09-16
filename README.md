@@ -27,17 +27,15 @@
 I didnt take the decompiled version from **https://github.com/PrattaySarkar/MeduzaV3crackedagain**
 I decompiled myself. so please do not be confused, oh and this version is not a crack so yea use the PrattySarkar crack.
 
-## Release
+## Obfuscation Used (🔍)
 
-| Property  | Details            |
-| --------- | ------------------ |
-| Version   | **24.1.2**         |
-| Python    | **3.13.3**         |
-| Status    | **Stable**         |
-| Platform  | **Cross-Platform** |
-| File Type | **Python / .py**   |
+Data Obfuscation : 
 
-[View Commit History](https://github.com/KianSantang777/MeduzaV3/commits/Version-3.0.1)
+"card_run.py" hide the structure. it rename his variable to like _ch, _xr, and _kx. This makes the code look messy .
+
+Payload Encryption :
+
+The hidden code is  inside the byte arrays OB1 through OB4. he run this encrypted code through its own custom decryption functions, _ch (a lightweight ChaCha cipher) and _xr (cascading XORs), building his code in memory
 
 ---
 
