@@ -4,7 +4,7 @@
 
 # MeduzaPro
 
-**Version 24.1.2 · Decompiled Version✨**
+**Version 24.1.2 · Cracked Version✨**
 
 <p>
   <img src="https://raw.githubusercontent.com/KianSantang777/MeduzaV3/refs/heads/main/Main.png" width="820">
@@ -24,18 +24,9 @@
 
 ## About
 
-I didnt take the decompiled version from **https://github.com/PrattaySarkar/MeduzaV3crackedagain**
-I decompiled myself. so please do not be confused, oh and this version is not a crack so yea use the PrattySarkar crack.
-
-## Obfuscation Used (🔍)
-
-Data Obfuscation : 
-
-"card_run.py" hide the structure. it rename his variable to like _ch, _xr, and _kx. This makes the code look messy .
-
-Payload Encryption :
-
-The hidden code is  inside the byte arrays OB1 through OB4. he run this encrypted code through its own custom decryption functions, _ch (a lightweight ChaCha cipher) and _xr (cascading XORs), building his code in memory
+I didnt take the cracked version from **https://github.com/PrattaySarkar/MeduzaV3crackedagain**
+I decompiled and cracked myself. so please do not be confused.
+The CC checker is a litle broken but you can fix it.
 
 ---
 
