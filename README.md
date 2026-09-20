@@ -24,9 +24,9 @@
 
 ## About
 
-I didnt take the cracked version from **https://github.com/PrattaySarkar/MeduzaV3crackedagain**
-I decompiled and cracked myself. so please do not be confused.
-The CC checker is a litle broken but you can fix it.
+- didnt take the cracked version from **https://github.com/PrattaySarkar/MeduzaV3crackedagain** I decompiled and cracked myself. so please do not be confused.
+- The CC checker is a little bit broken but you can fix it.
+
 
 ---
 
