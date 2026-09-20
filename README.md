@@ -74,9 +74,7 @@ sudo ./go.sh
 
 ### Developer
 
-Decompiled By Aceersi
-
-Thanks to Gemini for explaining the obfuscation used !
+Cracked By Aceersi
 
 ---
 
